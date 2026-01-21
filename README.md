@@ -31,8 +31,8 @@ Ein Python-basiertes Analyse-Tool für Formel-1-Renndaten, das Rennverläufe ana
 
 1. Repository klonen:
 ```bash
-git clone https://github.com/LevinFX/F1Analizer.git
-cd F1Analizer
+git clone https://github.com/LevinFX/F1Analyzer.git
+cd F1Analyzer
 ```
 
 2. Abhängigkeiten installieren:
